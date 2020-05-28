@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2A304209248033C800B78EC8 /* Ubber.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Ubber.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A304209248033C800B78EC8 /* Udder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Udder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A30420C248033C800B78EC8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2A30420E248033C800B78EC8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		2A304210248033C800B78EC8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		2A304200248033C800B78EC8 = {
 			isa = PBXGroup;
 			children = (
-				2A30420B248033C800B78EC8 /* Ubber */,
+				2A30420B248033C800B78EC8 /* Udder */,
 				2A30420A248033C800B78EC8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		2A30420A248033C800B78EC8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2A304209248033C800B78EC8 /* Ubber.app */,
+				2A304209248033C800B78EC8 /* Udder.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		2A30420B248033C800B78EC8 /* Ubber */ = {
+		2A30420B248033C800B78EC8 /* Udder */ = {
 			isa = PBXGroup;
 			children = (
 				2A30420C248033C800B78EC8 /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				2A304217248033D100B78EC8 /* LaunchScreen.storyboard */,
 				2A30421A248033D100B78EC8 /* Info.plist */,
 			);
-			path = Ubber;
+			path = Udder;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2A304208248033C800B78EC8 /* Ubber */ = {
+		2A304208248033C800B78EC8 /* Udder */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2A30421D248033D100B78EC8 /* Build configuration list for PBXNativeTarget "Ubber" */;
+			buildConfigurationList = 2A30421D248033D100B78EC8 /* Build configuration list for PBXNativeTarget "Udder" */;
 			buildPhases = (
 				2A304205248033C800B78EC8 /* Sources */,
 				2A304206248033C800B78EC8 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = Ubber;
+			name = Udder;
 			productName = Ubber;
-			productReference = 2A304209248033C800B78EC8 /* Ubber.app */;
+			productReference = 2A304209248033C800B78EC8 /* Udder.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2A304204248033C800B78EC8 /* Build configuration list for PBXProject "Ubber" */;
+			buildConfigurationList = 2A304204248033C800B78EC8 /* Build configuration list for PBXProject "Udder" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2A304208248033C800B78EC8 /* Ubber */,
+				2A304208248033C800B78EC8 /* Udder */,
 			);
 		};
 /* End PBXProject section */
@@ -291,7 +291,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = lkr.com.Ubber;
+				PRODUCT_BUNDLE_IDENTIFIER = lkr.com.Udder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -309,7 +309,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = lkr.com.Ubber;
+				PRODUCT_BUNDLE_IDENTIFIER = lkr.com.Udder;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -319,7 +319,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2A304204248033C800B78EC8 /* Build configuration list for PBXProject "Ubber" */ = {
+		2A304204248033C800B78EC8 /* Build configuration list for PBXProject "Udder" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2A30421B248033D100B78EC8 /* Debug */,
@@ -328,7 +328,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2A30421D248033D100B78EC8 /* Build configuration list for PBXNativeTarget "Ubber" */ = {
+		2A30421D248033D100B78EC8 /* Build configuration list for PBXNativeTarget "Udder" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2A30421E248033D100B78EC8 /* Debug */,

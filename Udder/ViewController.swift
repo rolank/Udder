@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Ubber
+//  Udder
 //
 //  Created by roland on 5/28/20.
 //  Copyright © 2020 roland. All rights reserved.
@@ -16,6 +16,11 @@ class ViewController: UIViewController {
     }
 
     override func viewWillAppear(_ animated: Bool) {
+        <#code#>
+    }
+    
+    
+    override func viewDidDisappear(_ animated: Bool) {
         <#code#>
     }
 
